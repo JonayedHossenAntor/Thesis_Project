@@ -9,7 +9,7 @@ For detecting plagiarism in the English language and other western languages, th
 As a result, we have chosen to use a corpus construction strategy to create a plagiarism detection program for **_Bangladeshi news articles._**
 
 ## Dataset links
-In this project I heve work with monter than eight thousends data. But I collected more the 100k data. <br>
+In this project I heve work with monter than eight thousends data. But I collected more the 40k data. <br>
 Worked with Dataset: [csv file](https://drive.google.com/drive/u/0/folders/1pOtKt3S8epJBHJLEmAJHIrmF5yABp8L3). <br>
 15k dataset: [csv file](https://drive.google.com/drive/u/0/folders/1pOtKt3S8epJBHJLEmAJHIrmF5yABp8L3). <br>
 25k dataset: [csv file](https://drive.google.com/drive/u/0/folders/1pOtKt3S8epJBHJLEmAJHIrmF5yABp8L3). <br>
